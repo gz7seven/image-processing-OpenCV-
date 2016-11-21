@@ -1,0 +1,30 @@
+﻿生成启动时间为 2015/11/1 星期日 下午 9:32:34。
+     1>项目“E:\自己的程序\opencv\基于帧间差分的运动检测和轮廓提取\基于帧间差分的运动检测和轮廓提取\SSL08\SSL08.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\SSL08.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\SSL08.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SSL08.cpp
+         SSL08.cpp
+     1>d:\program files\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\program files\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\program files\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>e:\自己的程序\opencv\基于帧间差分的运动检测和轮廓提取\基于帧间差分的运动检测和轮廓提取\ssl08\ssl08.cpp(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\SSL08.exe" /INCREMENTAL /NOLOGO opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248d.lib opencv_objdetect248.lib opencv_ts248.lib opencv_video248.lib opencv_nonfree248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_videostab248.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_nonfree248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_videostab248d.lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248d.lib opencv_objdetect248.lib opencv_ts248.lib opencv_video248.lib opencv_nonfree248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_videostab248.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_nonfree248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_videostab248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\SSL08.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\自己的程序\opencv\基于帧间差分的运动检测和轮廓提取\基于帧间差分的运动检测和轮廓提取\SSL08\Debug\SSL08.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\SSL08.lib" /MACHINE:X86 .\Debug\SSL08.obj
+         .\Debug\StdAfx.obj
+         SSL08.vcxproj -> E:\自己的程序\opencv\基于帧间差分的运动检测和轮廓提取\基于帧间差分的运动检测和轮廓提取\SSL08\.\Debug\SSL08.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\自己的程序\opencv\基于帧间差分的运动检测和轮廓提取\基于帧间差分的运动检测和轮廓提取\SSL08\.\Debug\SSL08.exe.manifest" /manifest .\Debug\SSL08.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\SSL08.unsuccessfulbuild”。
+         正在对“.\Debug\SSL08.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\自己的程序\opencv\基于帧间差分的运动检测和轮廓提取\基于帧间差分的运动检测和轮廓提取\SSL08\SSL08.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.70

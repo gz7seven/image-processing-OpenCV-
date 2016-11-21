@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "焦点检测", "焦点检测\焦点检测.vcxproj", "{096D7E3C-8D8D-41D6-91DD-9D05A9AEF906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096D7E3C-8D8D-41D6-91DD-9D05A9AEF906}.Debug|Win32.ActiveCfg = Debug|Win32
+		{096D7E3C-8D8D-41D6-91DD-9D05A9AEF906}.Debug|Win32.Build.0 = Debug|Win32
+		{096D7E3C-8D8D-41D6-91DD-9D05A9AEF906}.Release|Win32.ActiveCfg = Release|Win32
+		{096D7E3C-8D8D-41D6-91DD-9D05A9AEF906}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

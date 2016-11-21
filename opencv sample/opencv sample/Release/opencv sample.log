@@ -1,0 +1,18 @@
+﻿生成启动时间为 2015/9/9 10:41:28。
+     1>项目“F:\自己的程序\opencv sample\opencv sample\opencv sample.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\opencv sample.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         opencv sample.vcxproj -> F:\自己的程序\opencv sample\Release\opencv sample.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\opencv sample.unsuccessfulbuild”。
+         正在对“Release\opencv sample.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\自己的程序\opencv sample\opencv sample\opencv sample.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.08

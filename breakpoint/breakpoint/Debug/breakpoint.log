@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/6/12 23:29:25。
+     1>项目“I:\程序\自己\opencv\breakpoint\breakpoint\breakpoint.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\breakpoint.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt breakpoint.cpp
+         breakpoint.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\breakpoint.exe.embed.manifest.res" Debug\breakpoint_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\程序\自己\opencv\breakpoint\Debug\breakpoint.exe" /INCREMENTAL /NOLOGO opencv_ml248d.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_nonfree248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_videostab248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\breakpoint.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"I:\程序\自己\opencv\breakpoint\Debug\breakpoint.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\程序\自己\opencv\breakpoint\Debug\breakpoint.lib" /MACHINE:X86 Debug\breakpoint.exe.embed.manifest.res
+         Debug\breakpoint.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\breakpoint.exe.embed.manifest" /manifest Debug\breakpoint.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         breakpoint.vcxproj -> I:\程序\自己\opencv\breakpoint\Debug\breakpoint.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\breakpoint.unsuccessfulbuild”。
+         正在对“Debug\breakpoint.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“I:\程序\自己\opencv\breakpoint\breakpoint\breakpoint.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.97
